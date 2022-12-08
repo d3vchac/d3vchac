@@ -1,7 +1,7 @@
 ### 
 
 # 👨🏻‍💻 About Me:
-I'm a pentester that loves to build things too.
+I'm a n00b that loves to build things too.
 
 # GitHub Stats:
 
